@@ -20,7 +20,7 @@ const auth_1 = require("../controllers/auth");
 const validateRequest_1 = require("../helper/validateRequest");
 const router = express_1.default.Router();
 // POST /auth/
-router.post("/", [
+router.post("/register", [
     (0, express_validator_1.body)("name")
         .trim()
         .not()
