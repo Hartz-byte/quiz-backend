@@ -1,1 +1,1 @@
-deployed link: https://quiz-backend-apjq.onrender.com/
+deployed link: https://quiz-backend-psi.vercel.app
